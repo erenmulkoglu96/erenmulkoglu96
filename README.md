@@ -9,7 +9,7 @@
 
 ./ Knowledge is power. <strong>.# JavaScript, C#, Python, React, NodeJs, ASP.Net, MongoDB, T-SQL #.</strong>
 
-<h3 align="left">Contact With Me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://codepen.io/Eren-M-lkolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="emre-cokun-the-vuer" height="30" width="40" /></a>
 <a href="https://twitter.com/erenmulkoglu96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erenmulkoglu96" height="30" width="40" /></a>
