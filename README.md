@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/erenmulkoglu96" target="blank"><img src="https://img.shields.io/twitter/follow/erenmulkoglu96?logo=twitter&style=for-the-badge" alt="erenmulkoglu96" /></a> </p>
 
-./ Knowledge is power. <strong>.# JavaScript, C#, Python, React, NodeJs, .NET, ASP.NET Core, MongoDB, T-SQL #.</strong>
+./ Knowledge is power. <strong>.# JavaScript, C#, MS-SQL, React, NodeJs, .NET, ASP.NET Core, MongoDB, T-SQL #.</strong>
 
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
