@@ -25,9 +25,10 @@
   <a href="https://www.linkedin.com/in/erenmulkoglu96/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-     <a href="https://www.instagram.com/eren.mulkoglu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="40" height="40" />
-  </a>  
+    <a href="https://www.instagram.com/eren.mulkoglu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=red" target="_blank" />
+  </a>
+
       <a href="https://twitter.com/erenmulkoglu96" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="40" height="40" />
   </a>  
