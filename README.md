@@ -40,8 +40,8 @@
 <h2 align="center">⚒️ Programming Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,csharp,react-native,bootstrap,html,css,vscode,github,figma,git,sql-server,jquery,angular,linux,heroku," />
-    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,babel,android,python,javascript,typescript,express,mongodb,mysql,flask,webpack,sqlite,redux,postman,postgresql,Oracle," /><br>
+    <img src="https://skillicons.dev/icons?i=react,cs,react-native,bootstrap,html,css,visualstudio,vscode,cloudflare,github,figma,git,sql-server,jquery,angular,linux,heroku," />
+    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,babel,androidstudio,python,bash,javascript,typescript,express,mongodb,codepen,mysql,flask,webpack,sqlite,redux,postman,postgresql" /><br>
 </div>
 
 <br/>
