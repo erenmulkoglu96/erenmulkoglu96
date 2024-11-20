@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Programming Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,cs,react-native,bootstrap,html,css,visualstudio,vscode,cloudflare,github,figma,git,sql-server,jquery,angular,linux,heroku," />
+    <img src="https://skillicons.dev/icons?i=react,cs,<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>,bootstrap,html,css,visualstudio,vscode,cloudflare,github,figma,git,sql-server,jquery,angular,linux,heroku," />
     <img src="https://skillicons.dev/icons?i=nodejs,dotnet,babel,androidstudio,python,bash,javascript,typescript,express,mongodb,codepen,mysql,flask,webpack,sqlite,redux,postman,postgresql" /><br>
 </div>
 
