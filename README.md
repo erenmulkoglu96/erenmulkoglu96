@@ -29,9 +29,7 @@
   </a>
      <a href="https://www.instagram.com/eren.mulkoglu/" target="_blank">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" width="40" height="40" />
-  </a>
-<a href="https://www.instagram.com/eren.mulkoglu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eren.mulkoglu" height="30" width="40" /></a>
-  
+  </a>  
 <a href="https://twitter.com/erenmulkoglu96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erenmulkoglu96" height="30" width="40" /></a>
 
 <a href="https://codepen.io/Eren-M-lkolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="emre-cokun-the-vuer" height="30" width="40" /></a>
