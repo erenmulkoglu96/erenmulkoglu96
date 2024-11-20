@@ -1,4 +1,4 @@
-<img src=”![image](https://github.com/user-attachments/assets/60b4f40e-5cb2-4487-b083-8a6501b41dc5)” width=”300¨ height=”250¨ />
+![image](https://github.com/user-attachments/assets/60b4f40e-5cb2-4487-b083-8a6501b41dc5)
 
 
 <h1 align="center">
