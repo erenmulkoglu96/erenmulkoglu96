@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **React Native, Asterisk**
+ 🌱 I’m currently learning **React Native, Asterisk,**
 
 💬 Ask me about **.NET, Microsoft SQL Server, JavaScript, T-SQL, React, ASP .Net CORE**
 
@@ -42,8 +42,8 @@
 <h2 align="center">⚒️ Programming Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,cs,bootstrap,html,css,visualstudio,vscode,github,figma,git,jquery,angular,linux," />
-    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,babel,androidstudio,python,bash,javascript,typescript,express,cloudflare,mongodb,codepen,mysql,flask,webpack,sqlite,redux,postman,postgresql"/>
+    <img src="https://skillicons.dev/icons?i=react,cs,bootstrap,html,css,visualstudio,vscode,github,git,jquery,angular,linux," />
+    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,babel,androidstudio,python,bash,javascript,typescript,express,cloudflare,mongodb,codepen,mysql,flask,webpack,sqlite,redux,postman,postgresql,vue"/>
 <br>
 </div>
 
