@@ -1,4 +1,4 @@
-<img src="https://i.hizliresim.com/4iht99h.jpg" width="400" height="400" />
+<img src="https://i.hizliresim.com/4iht99h.jpg" width="600" height="400" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eren+Mülkoğlu!;" />
