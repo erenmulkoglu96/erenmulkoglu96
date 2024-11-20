@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/60b4f40e-5cb2-4487-b083-8a6501b41dc5)
-
+<img src="https://i.hizliresim.com/4iht99h.jpg" width="400" height="400" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eren+Mülkoğlu!;" />
