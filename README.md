@@ -1,11 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eren+Mülkoğlu!;" />
 </h1>
-
 <h3 align="center">A passionate software developer from Türkiye ᵀᴿ</h3>
-
 <br/>
-
 <div align="center">
  
  🔭 I’m currently working on **a marketplace**
@@ -34,9 +31,7 @@
     <a href="https://codepen.io/Eren-M-lkolu" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-55BE96?style=for-the-badge&logo=codepen&logoColor=brown" target="_blank" />
   </a>
- 
-  
-  
+   
 </div>
 
  <hr/>
