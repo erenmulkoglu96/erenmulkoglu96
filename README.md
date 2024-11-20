@@ -41,7 +41,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,cs,bootstrap,html,css,visualstudio,vscode,github,figma,git,jquery,angular,linux," />
-    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,babel,androidstudio,python,bash,javascript,typescript,express,cloudflare,mongodb,codepen,mysql,flask,webpack,sqlite,redux,postman,postgresql,heroku" />
+    <img src="https://skillicons.dev/icons?i=nodejs,dotnet,babel,androidstudio,python,bash,javascript,typescript,express,cloudflare,mongodb,codepen,mysql,flask,webpack,sqlite,redux,postman,postgresql,heroku" https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 <br>
