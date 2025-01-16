@@ -1,4 +1,4 @@
-![4iht99h (2)](https://github.com/user-attachments/assets/d59a7abd-35a0-420c-9411-a0d81a0c28d4)
+![4iht99h](https://github.com/user-attachments/assets/8e51200a-614e-43af-bc6c-2342d690028d)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eren+Mülkoğlu!;" />
 </h1>
