@@ -1,5 +1,10 @@
-<img src="![4iht99h](https://github.com/user-attachments/assets/5432a88e-4871-4a49-b400-71753850c136)
-" width="950" height="350" alt="istanbul manzara">
+<img src="![4iht99h](https://github.com/user-attachments/assets/c3bbf06b-6301-478d-9fed-f6995bac4d28)
+" alt="resim" class="resimler">
+
+.resimler {
+    width: 950px;
+    height: 350px;
+}
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eren+Mülkoğlu!;" />
