@@ -1,5 +1,3 @@
-<img src="![4iht99h](https://github.com/user-attachments/assets/5c0f7c10-254c-4c38-b6e0-0250440e9e57)
-" alt="açıklayıcı metin" style="width:950;height:350;">
 
 
 <h1 align="center">
