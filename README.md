@@ -1,10 +1,6 @@
-<img src="![4iht99h](https://github.com/user-attachments/assets/c3bbf06b-6301-478d-9fed-f6995bac4d28)
-" alt="resim" class="resimler">
+<img src="![4iht99h](https://github.com/user-attachments/assets/5c0f7c10-254c-4c38-b6e0-0250440e9e57)
+" alt="açıklayıcı metin" style="width:950;height:350;">
 
-.resimler {
-    width: 950px;
-    height: 350px;
-}
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eren+Mülkoğlu!;" />
