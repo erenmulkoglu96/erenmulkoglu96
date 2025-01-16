@@ -1,4 +1,5 @@
-<img src="![4iht99h](https://github.com/user-attachments/assets/b6a08ccc-b4e2-42ee-871f-16ecb85b8269)" width="950" height="350" />
+<img src="![4iht99h](https://github.com/user-attachments/assets/6aa40c6f-e907-4140-a20d-7acbd65004a2)
+" width="950" height="350" alt="istanbul manzara">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eren+Mülkoğlu!;" />
