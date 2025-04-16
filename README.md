@@ -56,9 +56,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenmulkoglu96&show_icons=true&locale=en&layout=compact" alt="erenmulkoglu96" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenmulkoglu96&show_icons=true&locale=en" alt="erenmulkoglu96" /></p>
 
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenmulkoglu96&" alt="erenmulkoglu96" /></p>
 
