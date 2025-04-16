@@ -10,7 +10,7 @@
  
  🌱 I’m currently learning **React Native, Asterisk,**
 
-💬 Ask me about **.NET, Entity FrameworkCore, Angular, TypeScript, NodeJs, Microsoft SQL Server, <br>Oracle, JavaScript, T-SQL, React, ASP.Net Core</br>**
+💬 Ask me about **.NET, Entity Framework Core, Angular, TypeScript, NodeJs, Microsoft SQL Server, <br>Oracle, JavaScript, T-SQL, React, ASP.Net Core</br>**
 
 ⚡ Fun fact **The Lord of the Rings: Rings of Power**
 
