@@ -54,7 +54,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erenmulkoglu96" alt="erenmulkoglu96" /></a> </p>
 
 
-
+<hr>
 
 
 <div align="center">
