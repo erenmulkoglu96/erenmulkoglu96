@@ -57,9 +57,10 @@
 
 
 
-<div align="center">
+<div align="left">
 
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenmulkoglu96&show_icons=true&locale=en" alt="erenmulkoglu96" />
 
+<hr>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenmulkoglu96&" alt="erenmulkoglu96" />
 </div>
