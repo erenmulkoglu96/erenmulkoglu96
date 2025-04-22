@@ -59,6 +59,7 @@
 
 <div align="center">
 
+s
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenmulkoglu96&show_icons=true&locale=en" alt="erenmulkoglu96" />
 
 <hr>
