@@ -49,6 +49,10 @@
 <hr/>
 
 
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6b1d30a698f8fb54f49ce73c6716c00d47fe0831fcedb6d24198920711d76942/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72796f2d6d61266c61796f75743d636f6d70616374"><img src="https://camo.githubusercontent.com/6b1d30a698f8fb54f49ce73c6716c00d47fe0831fcedb6d24198920711d76942/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d72796f2d6d61266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenmulkoglu96&amp;layout=compact" style="max-width: 100%;"></a>
+
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=erenmulkoglu96&label=Profile%20views&color=0e75b6&style=flat" alt="erenmulkoglu96" /> </p>
 
 
