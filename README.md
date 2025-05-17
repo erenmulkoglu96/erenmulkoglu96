@@ -8,7 +8,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **React Native, Asterisk,**
+ 🌱 I’m currently learning **React Native, NextJS, VueJS, RabbitMQ**
 
 💬 Ask me about **.NET, Entity Framework Core, Angular, TypeScript, NodeJs, Microsoft SQL Server, <br>Oracle, React, JavaScript, T-SQL, ASP.NET Core MVC</br>**
 
