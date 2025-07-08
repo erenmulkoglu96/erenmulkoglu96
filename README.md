@@ -12,7 +12,7 @@
 
 💬 Ask me about **.NET, Entity Framework Core, Angular, TypeScript, NodeJs, Microsoft SQL Server, <br>Oracle, React, JavaScript, T-SQL, ASP.NET Core MVC</br>**
 
-⚡ Fun fact **The Lord of the Rings: Rings of Power**
+⚡ Fun fact **Solo Leveling**
 
  </div>
  
