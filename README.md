@@ -29,9 +29,6 @@
     <a href="https://twitter.com/erenmulkoglu96" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-08a0e9?style=for-the-badge&logo=x&logoColor=black" target="_blank" />
   </a>
-    <a href="https://codepen.io/Eren-M-lkolu" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-55BE96?style=for-the-badge&logo=codepen&logoColor=brown" target="_blank" />
-  </a>
    
 </div>
 
