@@ -2,9 +2,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eren+Mülkoğlu!;" />
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=erenmulkoglu96)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 </h1>
 <h3 align="center">A passionate software engineer from Türkiye ᵀᴿ</h3>
 <br/>
