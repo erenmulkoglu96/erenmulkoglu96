@@ -2,10 +2,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eren+Mülkoğlu!;" />
 
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenmulkoglu96&layout=compact)
-
-
 </h1>
 <h3 align="center">A passionate software engineer from Türkiye ᵀᴿ</h3>
 <br/>
