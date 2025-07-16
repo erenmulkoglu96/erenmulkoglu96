@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
  
- 🔭 I’m currently working on **Republic Of Türkiye Ministry Of Agriculture And Forestry**
+ 🔭 I’m currently working on **I’m currently working on Republic Of Türkiye Ministry Of Agriculture And Forestry via Zirvedeki Beyinler**
  
  🌱 I’m currently learning **React Native, NextJS, VueJS, RabbitMQ**
 
