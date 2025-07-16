@@ -1,6 +1,9 @@
  <img src="https://github.com/user-attachments/assets/8e51200a-614e-43af-bc6c-2342d690028d" width="950" height="350" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eren+Mülkoğlu!;" />
+
+ https://github-profile-trophy.vercel.app/?username=erenmulkoglu96&theme=nord
+
 </h1>
 <h3 align="center">A passionate software engineer from Türkiye ᵀᴿ</h3>
 <br/>
