@@ -2,7 +2,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eren+Mülkoğlu!;" />
 
- <img src="https://camo.githubusercontent.com/3e8683c8b94c82eac14665d110e77b1cfc30b3da97ebec221a77d39c5b001603/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d382672616e6b3d5353532c53532c532c4141412c41412c412c422c43" data-canonical-src="https://github-profile-trophy.vercel.app/?username=erenmulkoglu96&amp;column=8&amp;rank=SSS,SS,S,AAA,AA,A,B,C" style="max-width: 100%;"></a>
+ [![trophy](https://github-profile-trophy.vercel.app/?username=erenmulkoglu96)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </h1>
 <h3 align="center">A passionate software engineer from Türkiye ᵀᴿ</h3>
