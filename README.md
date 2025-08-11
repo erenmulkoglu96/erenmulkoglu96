@@ -1,4 +1,4 @@
- <img src="alt="image"https://github.com/user-attachments/assets/6d045e2b-a66d-423b-a203-1ac274c08d56" width="950" height="350" />
+ <img src="https://github.com/user-attachments/assets/6d045e2b-a66d-423b-a203-1ac274c08d56" width="950" height="350" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eren+Mülkoğlu!;" />
 
