@@ -49,7 +49,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenmulkoglu96&layout=compact&theme=default" alt="erenmulkoglu96" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenmulkoglu96&show_icons=true&locale=en" alt="erenmulkoglu96" />
+<img src="https://github-readme-stats.vercel.app/api?username=erenmulkoglu96&show_icons=true&locale=en" alt="erenmulkoglu96" />
 
 <hr>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erenmulkoglu96&" alt="erenmulkoglu96" />
