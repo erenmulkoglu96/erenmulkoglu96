@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenmulkoglu96&layout=compact&theme=default" alt="erenmulkoglu96" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenmulkoglu96&layout=compact&theme=default" height="250px" alt="erenmulkoglu96" />
 &nbsp <img src="https://github-readme-stats.vercel.app/api?username=erenmulkoglu96&show_icons=true&locale=en" alt="erenmulkoglu96" />
 
 <hr>
