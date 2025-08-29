@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenmulkoglu96&layout=compact&theme=default" alt="erenmulkoglu96" width="355" height="355" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenmulkoglu96&layout=compact&theme=default" alt="erenmulkoglu96" width="354" height="354" />
 &nbsp <img src="https://github-readme-stats.vercel.app/api?username=erenmulkoglu96&show_icons=true&locale=en" alt="erenmulkoglu96" />
 
 <hr>
