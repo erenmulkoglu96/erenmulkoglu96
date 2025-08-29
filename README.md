@@ -11,7 +11,7 @@
  
  🌱 I’m currently learning **React Native, NextJS, VueJS, RabbitMQ**
 
-💬 Ask me about **.NET, Entity Framework Core, Angular, TypeScript, NodeJs, Microsoft SQL Server, <br>Oracle, React, JavaScript, T-SQL, ASP.NET Core MVC</br>**
+💬 Ask me about **.NET, Entity Framework Core, Angular, TypeScript, NodeJs, Microsoft SQL Server, <br>Oracle, React, JavaScript, T-SQL, ASP.NET Core MVC/WEB API</br>**
 
 ⚡ Fun fact **Solo Leveling, My Hero Academia, Full Metal Alchemists, One Piece**
 
